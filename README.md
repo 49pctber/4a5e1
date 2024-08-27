@@ -1,5 +1,6 @@
 # 4a5e1
 
-Stuff for [this subreddit](https://www.reddit.com/r/4a5e1/).
+Code related to the puzzle contained on [this subreddit](https://www.reddit.com/r/4a5e1/).
+What I have so far is contained in [notes.ipynb](notes.ipynb).
 
-I have more code related to this somewhere, but I don't know where it is. I'll add it if I find it.
+If you find any more clues, please make a pull request or open an issue.
